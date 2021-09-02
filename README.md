@@ -1,0 +1,2 @@
+# amazepxm
+static website
